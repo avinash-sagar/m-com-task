@@ -7,7 +7,7 @@ import {
     Box,
     Link,
 } from '@mui/material'
-import React, { useState } from 'react'
+import React  from 'react'
 import ShoppingBagOutlinedIcon from '@mui/icons-material/ShoppingBagOutlined';
 import BookmarkAddOutlinedIcon from '@mui/icons-material/BookmarkAddOutlined';
 // import { useNavigate } from "react-router-dom";
